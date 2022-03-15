@@ -1,4 +1,4 @@
-#112
+#110
 for n in range(201):
 	r=n
 	for i in range(9): 
